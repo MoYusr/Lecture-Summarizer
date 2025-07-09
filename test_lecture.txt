@@ -1,0 +1,6 @@
+Machine learning is a subset of artificial intelligence. 
+It focuses on building systems that learn from data. 
+Supervised learning uses labeled datasets to train algorithms. 
+Unsupervised learning finds patterns in unlabeled data. 
+Neural networks are inspired by the human brain structure. 
+Backpropagation is key for training neural networks.

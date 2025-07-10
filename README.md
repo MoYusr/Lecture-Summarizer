@@ -1,4 +1,5 @@
-Run this the first time: python -c "from summarizer import train_model; train_model()"
+Run this the first time: python -c "from summarizer import train_model; train_model()".
+
 Text is tokenized (broken down into smaller units called tokens).
 Uses TF-IDF to check how important a word is to the lecture transcript.
 Term Frequency (TF):
